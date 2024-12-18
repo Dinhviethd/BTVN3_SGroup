@@ -1,0 +1,59 @@
+*{
+    font-family: Arial;
+}
+.header{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(4, 4, 80)
+}
+input{
+    border-radius: 30px;
+    padding: 15px;
+    width: 400px;
+    margin: 30px 0
+}
+.SearchBar{
+    text-align: center;
+}
+.Pokemon{
+    border-radius: 20px;
+    background-color: rgb(238, 238, 238);
+    padding: 30px;
+}
+.Pokemon h3{
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.Type{
+    padding: 3px;
+    border-radius: 5px;
+    
+}
+.Element{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+}
+.Grass{
+    background-color: green;
+}
+.Fire{
+    background-color: red;
+}
+.Poison{
+    background-color: purple;
+}
+.Flying{
+    background-color: gray;
+}
+.photo{
+    padding-top: 20px;
+    height: 100px;
+}
+.Content{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
